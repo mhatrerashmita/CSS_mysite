@@ -1,0 +1,176 @@
+body
+{
+   margin: 0%;
+   /* text-align: center; */
+
+   
+}
+h2{
+    margin-top: 0%;
+    color: #66BFBF;
+    font-size: 50px;
+
+}
+/* div{
+    
+   
+} */
+.Pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+   position:absolute;
+   top: 440px;
+   left: 240px;
+}
+.top-cloud{
+    position:absolute;
+    top:10px;
+    margin-left: 250px;
+ }
+.top-container{
+    position:relative;
+    padding-top: 100px;
+    background-color: #b5e0d7;
+}
+.top-container p{
+    color: #66BFBF;
+    font-size: 50px;
+
+
+}
+h1{
+    font-size: 5.625rem;
+    margin:auto auto 50px 50px;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    
+}
+p{
+    font-size:1.2rem;
+    line-height: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.skills
+{
+    text-align: center;
+    
+}
+.skill-row
+{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+
+   
+  
+
+}
+.gif{
+    width: 15%;
+    float: left;
+    margin-right:55%;
+    margin: 120px;
+    margin-top:15px;
+    margin-left: 0px;
+    margin-bottom:15px;
+ 
+
+    
+
+}
+.chilli
+{
+  
+    float: right;
+    margin-left:200px;
+    margin: 120px;
+    margin-top:15px;
+    margin-right: 0px;
+    margin-bottom: 12px;
+}
+
+.skill-row
+{
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:3;
+}
+.rashmi
+{
+    border-radius: 100%;
+    width:160px;
+    height: 160px;
+}
+.middle-container
+{
+ background-color: white;
+}
+.dev{
+    text-align: right;
+}
+h3{
+     font-size:2rem;
+     font-family: 'Times New Roman', Times, serif;
+     color: #66BFBF;
+}
+.btn
+{
+    width:180px;
+    background-color: #66BFBF;
+    margin-top: 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    height: 50px;
+    color: white;
+    border: none;
+    font-family: 'montserrat';
+    font-size: 20px;
+}
+.btn:hover
+{
+    background-color: #2CCCB4;
+}
+.para
+{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.contact-me
+{
+   
+    margin-bottom:100px ;
+}
+.bottom-container
+{
+    background-color: #66BFBF ;
+    padding: 3% 15%;
+}
+.foot
+{
+ color: #238080;
+ display: flex;
+ display: inline;
+ padding: 3% 2%;
+ cursor: pointer;
+}
+.foot:hover
+{
+    color: white;
+}
+.parag
+{
+    color: white;
+    font-size: small;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
